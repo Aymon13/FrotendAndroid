@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Aymon/StudioProjects/location_data/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.187" />
+        <entry key="..\:/Users/Aymon/StudioProjects/location_data/app/src/main/res/drawable/ic_baseline_logout_24.xml" value="0.187" />
+        <entry key="..\:/Users/Aymon/StudioProjects/location_data/app/src/main/res/drawable/ic_launcher_background.xml" value="0.187" />
+        <entry key="..\:/Users/Aymon/StudioProjects/location_data/app/src/main/res/drawable/ic_portrait_black_24dp.xml" value="0.187" />
+        <entry key="..\:/Users/Aymon/StudioProjects/location_data/app/src/main/res/drawable/side_nav_bar.xml" value="0.125" />
+        <entry key="..\:/Users/Aymon/StudioProjects/location_data/app/src/main/res/layout/activity_full_screen.xml" value="0.24954710144927536" />
+        <entry key="..\:/Users/Aymon/StudioProjects/location_data/app/src/main/res/layout/activity_home__page.xml" value="0.1140625" />
+        <entry key="..\:/Users/Aymon/StudioProjects/location_data/app/src/main/res/layout/activity_main.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/Aymon/StudioProjects/location_data/app/src/main/res/layout/activity_maps.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Aymon/StudioProjects/location_data/app/src/main/res/layout/content_main.xml" value="0.2" />
+        <entry key="..\:/Users/Aymon/StudioProjects/location_data/app/src/main/res/layout/contents.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Aymon/StudioProjects/location_data/app/src/main/res/layout/headermenu.xml" value="0.24954710144927536" />
+        <entry key="..\:/Users/Aymon/StudioProjects/location_data/app/src/main/res/layout/lat_long_display.xml" value="0.11197916666666667" />
+        <entry key="..\:/Users/Aymon/StudioProjects/location_data/app/src/main/res/layout/map_display.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Aymon/StudioProjects/location_data/app/src/main/res/layout/nav_header.xml" value="0.24954710144927536" />
+        <entry key="..\:/Users/Aymon/StudioProjects/location_data/app/src/main/res/layout/nav_window1.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Aymon/StudioProjects/location_data/app/src/main/res/layout/phone_authentication_design.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Aymon/StudioProjects/location_data/app/src/main/res/layout/phone_authentication_layout.xml" value="0.264" />
+        <entry key="..\:/Users/Aymon/StudioProjects/location_data/app/src/main/res/layout/singlerow.xml" value="0.24954710144927536" />
+        <entry key="..\:/Users/Aymon/StudioProjects/location_data/app/src/main/res/layout/splash_design.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/Aymon/StudioProjects/location_data/app/src/main/res/layout/toolbar.xml" value="0.1140625" />
+        <entry key="..\:/Users/Aymon/StudioProjects/location_data/app/src/main/res/layout/user_info.xml" value="0.1140625" />
+        <entry key="..\:/Users/Aymon/StudioProjects/location_data/app/src/main/res/layout/welcome.xml" value="0.2" />
+        <entry key="..\:/Users/Aymon/StudioProjects/location_data/app/src/main/res/menu/dmenu.xml" value="0.1140625" />
+        <entry key="..\:/Users/Aymon/StudioProjects/location_data/app/src/main/res/menu/iconmenu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Aymon/StudioProjects/location_data/app/src/main/res/menu/menu_main.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/Aymon/StudioProjects/location_data/app/src/main/res/menu/navigation_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

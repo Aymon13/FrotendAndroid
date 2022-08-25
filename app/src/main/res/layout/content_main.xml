@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/img_4"
+    tools:showIn="@layout/lat_long_display">
+
+
+    <TextView
+
+        android:id="@+id/locationText"
+        android:layout_width="365dp"
+        android:layout_height="495dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="22dp"
+        android:layout_marginBottom="196dp"
+        android:text="."
+        android:textColor="#FFFFFF"
+        android:textSize="17sp" />
+
+    <Button
+        android:id="@+id/getLocationBtn"
+
+        android:layout_width="275dp"
+        android:layout_height="67dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="65dp"
+        android:layout_marginBottom="108dp"
+        android:backgroundTint="#FFFFFF"
+        android:padding="10dp"
+        android:text="Get Current Location"
+        android:textColor="@color/black"
+        android:textStyle="italic"
+        app:iconTint="@color/black" />
+</RelativeLayout>
